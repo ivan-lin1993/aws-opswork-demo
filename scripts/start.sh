@@ -1,2 +1,3 @@
 cd /home/ubuntu/aws-opswork-demo
-npm start
+nohup npm start
+

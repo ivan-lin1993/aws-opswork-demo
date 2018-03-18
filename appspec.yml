@@ -5,7 +5,7 @@ files:
     destination: /home/ubuntu/aws-opswork-demo
 hooks:
   BeforeInstall:
-    - location: scripts/install.sh
+    - location: scripts/before_install.sh
       runas: root
   AfterInstall:
     - location: scripts/install.sh
