@@ -1,2 +1,2 @@
 cd /home/ubuntu/aws-opswork-demo
-npm install
+npm install > loginstall
